@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Muhammad Rafay @rafayhanan
-- 👀 I’m interested in Front-End Development, Data Science and Data Engineering.
+- 👀 I’m interested in Software Development, Data Science and Data Engineering.
 - 🌱 I’m currently pursuing Bachelor's of Computer Science from COMSATS University Islamabad (CUI)
 - 📫 How to reach me : https://www.linkedin.com/in/mrafayhanan/<br>mrafayhanan@gmail.com
 
