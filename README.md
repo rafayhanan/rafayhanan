@@ -4,7 +4,9 @@
 - 🌱 I’m currently pursuing Bachelor's of Computer Science from COMSATS University Islamabad (CUI)
 - 📫 How to reach me : https://www.linkedin.com/in/mrafayhanan/<br>mrafayhanan@gmail.com
 
-<h3><a href="https://rafayhanan.github.io">Portfolio Website</a></h3>
+<h3>Portfolio Website</h3>
+
+<a href="https://rafayhanan.github.io">rafayhanan.github.io</a>
 
 <h3>Stats:</h3>
 
