@@ -1,4 +1,4 @@
-<h1>👋 Hi, I’m Muhammad Rafay @rafayhanan </h1>
+<h1>👋 Hi, I’m Muhammad Rafay</h1>
 
 - 👀 I’m interested in Software Development, Data Science and Data Engineering.
 - 🌱 I’m currently pursuing Bachelor's of Computer Science from COMSATS University Islamabad (CUI)
