@@ -24,10 +24,11 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)</span>
 
 <h2>Stats:</h2>
+<span>
+  
+[![Rafay's GitHub stats](https://github-readme-stats.vercel.app/api?username=rafayhanan&hide=contribs&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)         ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafayhanan&hide_progress=true&theme=radical)
 
-[![Rafay's GitHub stats](https://github-readme-stats.vercel.app/api?username=rafayhanan&hide=contribs&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafayhanan&hide_progress=true&theme=radical)
+</span>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=rafayhanan&theme=radical)](https://git.io/streak-stats)
 <!---
