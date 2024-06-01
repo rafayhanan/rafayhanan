@@ -2,13 +2,13 @@
 
 - 👀 I’m interested in Software Development, Data Science and Data Engineering.
 - 🌱 I’m currently pursuing Bachelor's of Computer Science from COMSATS University Islamabad (CUI)
-
+- Email me: mrafayhanan@gmail.com
 
 <h3>Reach Me</h3>
 
 <span>
   
-<a href="https://www.linkedin.com/in/mrafayhanan/" target="_blank">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a><a href="mailto:mrafayhanan@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
+<a href="https://www.linkedin.com/in/mrafayhanan/" target="_blank">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)
 </span>
 <h2>Portfolio Website:</h2>
 
