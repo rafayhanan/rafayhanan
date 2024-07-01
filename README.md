@@ -10,9 +10,7 @@
   
 <a href="https://www.linkedin.com/in/mrafayhanan/" target="_blank">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)
 </span>
-<h2>Portfolio Website:</h2>
 
-<h4><a href="https://rafayhanan.github.io">rafayhanan.github.io</a></h4>
 
 <h2>Tech Stack:</h2>
 
