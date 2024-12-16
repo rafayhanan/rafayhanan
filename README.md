@@ -29,6 +29,7 @@
 
 </span>
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=rafayhanan)](https://git.io/streak-stats)
 
 <!---
 rafayhanan/rafayhanan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
