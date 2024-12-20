@@ -4,6 +4,8 @@
 - 🌱 I’m currently pursuing Bachelors of Computer Science from COMSATS University Islamabad (CUI)
 - Email me: mrafayhanan@gmail.com
 
+![](https://komarev.com/ghpvc/?username=rafayhanan)
+
 <h3>Reach Me</h3>
 
 <span>
