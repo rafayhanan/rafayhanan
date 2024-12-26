@@ -1,6 +1,6 @@
 <h1>👋 Hi, I’m Muhammad Rafay</h1>
 
-- 👀 I’m interested in Software Development, Data Science and Data Engineering.
+- 👀 I’m interested in Software Development and Generative AI Engineering.
 - 🌱 I’m currently pursuing Bachelors of Computer Science from COMSATS University Islamabad (CUI)
 - Email me: mrafayhanan@gmail.com
 
