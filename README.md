@@ -33,7 +33,7 @@
 [![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=rafayhanan&theme=radical)](https://git.io/streak-stats)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=rafayhanan&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=rafayhanan&theme=radical&no-frame=false&no-bg=true&margin-w=3)
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
