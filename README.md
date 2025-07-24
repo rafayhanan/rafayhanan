@@ -22,22 +22,33 @@
 </span>
 
 <h2>Stats</h2>
+
+
+<div align="center">
+
 <span>
   
 [![Rafay's GitHub stats](https://github-readme-stats.vercel.app/api?username=rafayhanan&hide=contribs&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)         ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafayhanan&hide_progress=true&theme=radical)
 
 </span>
-
+  
 [![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=rafayhanan&theme=radical)](https://git.io/streak-stats)
 
+</div>
+
 ## 🏆 GitHub Trophies
+
+
+<div align="center">
+
 ![](https://github-profile-trophy.vercel.app/?username=rafayhanan&theme=radical&no-frame=false&no-bg=true&margin-w=3)
 
 
 <img src="https://github.com/rafayhanan/rafayhanan/blob/output/snake.svg" alt="Snake animation" />
-
+  
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+</div>
 <!---
 rafayhanan/rafayhanan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
