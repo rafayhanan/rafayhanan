@@ -34,7 +34,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=rafayhanan&theme=radical&no-frame=false&no-bg=true&margin-w=3)
 
 
-<img src="https://raw.githubusercontent.com/rafayhanan/rafayhanan/output/snake.svg" alt="Snake animation" />
+<img src="https://github.com/rafayhanan/rafayhanan/blob/output/snake.svg" alt="Snake animation" />
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
