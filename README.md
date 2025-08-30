@@ -26,13 +26,14 @@
 
 <div align="center">
 
-<span>
-  
-[![Rafay's GitHub stats](https://github-readme-stats.vercel.app/api?username=rafayhanan&hide=contribs&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)         ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafayhanan&hide_progress=true&theme=radical)
 
-</span>
+  
+[![Rafay's GitHub stats](https://github-readme-stats.vercel.app/api?username=rafayhanan&hide=contribs&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)        
+
   
 [![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=rafayhanan&theme=radical)](https://git.io/streak-stats)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafayhanan&hide_progress=false&theme=radical)
 
 </div>
 
