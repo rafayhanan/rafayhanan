@@ -28,8 +28,9 @@
 
 
   
-[![Rafay's GitHub stats](https://github-readme-stats.vercel.app/api?username=rafayhanan&hide=contribs&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)        
+<!--- [![Rafay's GitHub stats](https://github-readme-stats.vercel.app/api?username=rafayhanan&hide=contribs&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) --->
 
+![GitHub Stats](https://gh-readme-profile.vercel.app/api?username=rafayhanan&theme=radical)
   
 [![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=rafayhanan&theme=radical)](https://git.io/streak-stats)
 
