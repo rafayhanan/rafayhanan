@@ -1,7 +1,7 @@
 <h1>👋 Hi, I’m Muhammad Rafay</h1>
 
 - 👀 I’m interested in Software Engineering, Software Architecture and AI Infrastructure Engineering.
-- 🌱 I’m hold a Bachelors of Computer Science degree from COMSATS University Islamabad (CUI)
+- 🌱 I hold a Bachelors of Computer Science degree from COMSATS University Islamabad (CUI)
 - Email me: mrafayhanan@gmail.com
 
 
