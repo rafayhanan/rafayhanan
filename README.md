@@ -1,6 +1,6 @@
 <h1>👋 Hi, I’m Muhammad Rafay</h1>
 
-- I’m interested in Software Engineering, Software Architecture and AI Infrastructure Engineering.
+- I’m a Software Engineer.
 - I hold a Bachelors of Computer Science degree from COMSATS University Islamabad (CUI) 
 
 
@@ -14,7 +14,8 @@
 
 </span>
 
-Email me: mrafayhanan@gmail.com
+Email me: mrafayhanan@gmail.com <br>
+Work Github: https://github.com/rafay-avirso
 
 
 <h2>Tech Stack</h2>
